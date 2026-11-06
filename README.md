@@ -33,9 +33,16 @@ AutoDataViz-API/
         |_ report_generator.py
         |_report_prompts.py
         |_ report_renderer.py
-    |_ file_upload/
+    |_ file_export/
         |_ __init__.py
         |_ export_handler.py
+    |_history
+        |___init__.py
+        |_models.py
+        |_recorder.py
+        |_renderer.py
+        |_routes.py
+        |_store.py
     |_ plot/
         |_ __init__.py
     |_ static/                # Stores dynamically generated charts (e.g., output_chart.png)
