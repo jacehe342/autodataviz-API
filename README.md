@@ -1,4 +1,4 @@
-# DeepSeek Automated Data Analyzer V1.0
+# DeepSeek Automated Data Analyzer V1.1
 
 Welcome to **DeepSeek Automated Data Analyzer**, a lightweight, intelligent web application designed to empower users to analyze tabular datasets and generate data visualizations dynamically using **DeepSeek AI** and **Python**.
 
